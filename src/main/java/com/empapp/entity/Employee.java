@@ -13,6 +13,7 @@ public class Employee {
     private String name;
     private String email;
     private String mobile;
+	private String salary;
 
     public Long getId() {
         return id;
